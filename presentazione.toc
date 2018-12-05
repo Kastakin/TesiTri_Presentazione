@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Resveratrolo}{5}{0}{1}
+\beamer@sectionintoc {2}{Curcumina}{11}{0}{2}
+\beamer@sectionintoc {3}{Bipiridine}{17}{0}{3}
+\beamer@sectionintoc {4}{Conclusioni}{21}{0}{4}
