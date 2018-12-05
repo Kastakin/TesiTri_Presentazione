@@ -467,9 +467,18 @@ INPUT ./immagini/selfab_curcdone.png
 INPUT immagini/bpy.png
 INPUT ./immagini/bpy.png
 INPUT ./immagini/bpy.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Regular-osf-ts1.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/fira/FiraSans-Regular-osf-ts1.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Regular-osf-ts1--base.tfm
+INPUT immagini/bpy_mod.PNG
+INPUT ./immagini/bpy_mod.PNG
+INPUT ./immagini/bpy_mod.PNG
+INPUT immagini/stille.png
+INPUT ./immagini/stille.png
+INPUT ./immagini/stille.png
+INPUT immagini/rea_g.png
+INPUT ./immagini/rea_g.png
+INPUT ./immagini/rea_g.png
+INPUT immagini/ris_bpy2.png
+INPUT ./immagini/ris_bpy2.png
+INPUT ./immagini/ris_bpy2.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Regular-osf-ot1.tfm
 OUTPUT presentazione.nav
 OUTPUT presentazione.toc
@@ -483,4 +492,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb
