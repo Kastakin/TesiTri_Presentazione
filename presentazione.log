@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  5 DEC 2018 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  5 DEC 2018 15:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -955,7 +955,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box65
 \@float@everytoks=\toks46
 \@floatcapt=\box66
-) (./beamerthememetropolis.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (./beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
  (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
@@ -975,10 +984,10 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen294
 \pgf@nodesepend=\dimen295
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen296
@@ -1038,32 +1047,32 @@ Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLa
 )) (./presentazione.aux)
 \openout1 = `presentazione.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for OT1+FiraSans-OsF on input line 26.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+FiraSans-OsF on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 File: OT1FiraSans-OsF.fd 2018/05/23 (autoinst) Font definitions for OT1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 26.
+(Font)              scaled to size 9.0pt on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1125,7 +1134,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box73
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1133,55 +1142,55 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count336
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
  (./presentazione.out) (./presentazione.out)
 \@outlinefile=\write5
 \openout5 = `presentazione.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/FiraSans-OsF/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/FiraSans-OsF/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/FiraSans-OsF/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/FiraSans-OsF/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/FiraSans-OsF/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/FiraSans-OsF/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/FiraSans-OsF/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/FiraSans-OsF/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/FiraSans-OsF/m/it on input line 26.
+(Font)                  OT1/cmr/m/it --> OT1/FiraSans-OsF/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/FiraSans-OsF/m/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
+(Font)                  OT1/cmr/bx/it --> OT1/FiraSans-OsF/m/it on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/FiraSans-OsF/m/n --> OT1/FiraSans-OsF/bx/n on input line 26.
+(Font)                  OT1/FiraSans-OsF/m/n --> OT1/FiraSans-OsF/bx/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/FiraSans-OsF/m/it --> OT1/FiraSans-OsF/bx/it on input line 26.
+(Font)                  OT1/FiraSans-OsF/m/it --> OT1/FiraSans-OsF/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/FiraSans-OsF/bx/n --> OT1/FiraSans-OsF/bx/n on input line 26.
+(Font)                  OT1/FiraSans-OsF/bx/n --> OT1/FiraSans-OsF/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/FiraSans-OsF/m/n --> OT1/FiraSans-OsF/bx/n on input line 26.
+(Font)                  OT1/FiraSans-OsF/m/n --> OT1/FiraSans-OsF/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/FiraSans-OsF/m/it --> OT1/FiraSans-OsF/bx/it on input line 26.
+(Font)                  OT1/FiraSans-OsF/m/it --> OT1/FiraSans-OsF/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1199,7 +1208,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 26.
+. Activating mapping `default' on line 27.
 .................................................
 \c@mv@tabular=\count337
 \c@mv@boldtabular=\count338
@@ -1208,67 +1217,67 @@ Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./presentazione.nav)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 26.
+(Font)              scaled to size 5.0pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 30.
+(Font)              scaled to size 10.95pt on input line 31.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 30.
+(Font)              scaled to size 10.95pt on input line 31.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 30.
+(Font)              scaled to size 8.0pt on input line 31.
 
-Overfull \vbox (17.59242pt too high) detected at line 30
+Overfull \vbox (17.59242pt too high) detected at line 31
  []
 
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 4.0pt on input line 30.
+(Font)              scaled to size 4.0pt on input line 31.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 48.
+(Font)              scaled to size 9.0pt on input line 49.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 48.
+(Font)              scaled to size 10.0pt on input line 49.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 48.
+(Font)              scaled to size 10.0pt on input line 49.
  [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 73.
+(Font)              scaled to size 6.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 73.
+(Font)              scaled to size 9.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 73.
+(Font)              scaled to size 6.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
-(Font)              scaled to size 5.0pt on input line 73.
+(Font)              scaled to size 5.0pt on input line 74.
 <immagini/APP.png, id=42, 142.6128pt x 93.7101pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 73.
+Package pdftex.def Info: immagini/APP.png  used on input line 74.
 (pdftex.def)             Requested size: 153.64493pt x 100.96088pt.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 73.
+(Font)              scaled to size 7.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 73.
+(Font)              scaled to size 10.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 73.
+(Font)              scaled to size 7.0pt on input line 74.
  [3
 
  <./immagini/APP.png>]
-LaTeX Font Info:    Try loading font information for TS1+FiraSans-OsF on input line 88.
+LaTeX Font Info:    Try loading font information for TS1+FiraSans-OsF on input line 89.
  (/usr/share/texlive/texmf-dist/tex/latex/fira/TS1FiraSans-OsF.fd
 File: TS1FiraSans-OsF.fd 2018/05/23 (autoinst) Font definitions for TS1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 89.
  [4
 
 ] [5
@@ -1277,7 +1286,7 @@ LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' will be
 <immagini/resveratrolo.png, id=64, 108.8868pt x 61.6704pt>
 File: immagini/resveratrolo.png Graphic file (type png)
 <use immagini/resveratrolo.png>
-Package pdftex.def Info: immagini/resveratrolo.png  used on input line 110.
+Package pdftex.def Info: immagini/resveratrolo.png  used on input line 111.
 (pdftex.def)             Requested size: 122.9164pt x 69.61801pt.
  [6
 
@@ -1285,7 +1294,7 @@ Package pdftex.def Info: immagini/resveratrolo.png  used on input line 110.
 <immagini/totale_resveratrolo.png, id=71, 236.082pt x 101.178pt>
 File: immagini/totale_resveratrolo.png Graphic file (type png)
 <use immagini/totale_resveratrolo.png>
-Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 123.
+Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 124.
 (pdftex.def)             Requested size: 236.0814pt x 101.17773pt.
  [7
 
@@ -1293,90 +1302,126 @@ Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 12
 <immagini/heck.png, id=79, 293.6571pt x 152.4897pt>
 File: immagini/heck.png Graphic file (type png)
 <use immagini/heck.png>
-Package pdftex.def Info: immagini/heck.png  used on input line 134.
+Package pdftex.def Info: immagini/heck.png  used on input line 135.
 (pdftex.def)             Requested size: 307.28987pt x 159.56744pt.
  [8
 
- <./immagini/heck.png>] [9
+ <./immagini/heck.png>]
+<immagini/risache_resveratrolo.png, id=86, 165.4983pt x 114.6684pt>
+File: immagini/risache_resveratrolo.png Graphic file (type png)
+<use immagini/risache_resveratrolo.png>
+Package pdftex.def Info: immagini/risache_resveratrolo.png  used on input line 156.
+(pdftex.def)             Requested size: 153.64493pt x 106.46378pt.
+<immagini/risbuche_resveratrolo.png, id=87, 244.0317pt x 169.1118pt>
+File: immagini/risbuche_resveratrolo.png Graphic file (type png)
+<use immagini/risbuche_resveratrolo.png>
+Package pdftex.def Info: immagini/risbuche_resveratrolo.png  used on input line 156.
+(pdftex.def)             Requested size: 153.64493pt x 106.47905pt.
+ [9
 
-]
-<immagini/apo_resveratrolo.png, id=91, 278.9622pt x 183.5658pt>
+ <./immagini/risache_resveratrolo.png> <./immagini/risbuche_resveratrolo.png>]
+<immagini/apo_resveratrolo.png, id=96, 278.9622pt x 183.5658pt>
 File: immagini/apo_resveratrolo.png Graphic file (type png)
 <use immagini/apo_resveratrolo.png>
-Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 172.
+Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 184.
 (pdftex.def)             Requested size: 153.64493pt x 101.10434pt.
-<immagini/roi_resveratrolo.png, id=92, 299.4387pt x 99.2508pt>
+<immagini/roi_resveratrolo.png, id=97, 299.4387pt x 99.2508pt>
 File: immagini/roi_resveratrolo.png Graphic file (type png)
 <use immagini/roi_resveratrolo.png>
-Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 172.
+Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 184.
 (pdftex.def)             Requested size: 153.64493pt x 50.92616pt.
  [10
 
  <./immagini/apo_resveratrolo.png> <./immagini/roi_resveratrolo.png>] [11
 
 ]
-<immagini/curcumina.png, id=106, 1172.38pt x 417.56pt>
+<immagini/curcumina.png, id=111, 1172.38pt x 417.56pt>
 File: immagini/curcumina.png Graphic file (type png)
 <use immagini/curcumina.png>
-Package pdftex.def Info: immagini/curcumina.png  used on input line 195.
+Package pdftex.def Info: immagini/curcumina.png  used on input line 207.
 (pdftex.def)             Requested size: 147.50119pt x 52.53255pt.
  [12
 
  <./immagini/curcumina.png>]
-<immagini/generale_curcdone.png, id=113, 281.6121pt x 178.5069pt>
+<immagini/generale_curcdone.png, id=118, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 202.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 214.
 (pdftex.def)             Requested size: 253.44855pt x 160.6547pt.
  [13
 
  <./immagini/generale_curcdone.png>]
-<immagini/farmadone_curcdone.png, id=121, 325.4559pt x 113.9457pt>
+<immagini/farmadone_curcdone.png, id=126, 325.4559pt x 113.9457pt>
 File: immagini/farmadone_curcdone.png Graphic file (type png)
 <use immagini/farmadone_curcdone.png>
-Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 214.
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 226.
 (pdftex.def)             Requested size: 184.3758pt x 64.55156pt.
-<immagini/farmacurc_curcdone.png, id=122, 327.8649pt x 127.9179pt>
+<immagini/farmacurc_curcdone.png, id=127, 327.8649pt x 127.9179pt>
 File: immagini/farmacurc_curcdone.png Graphic file (type png)
 <use immagini/farmacurc_curcdone.png>
-Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 214.
+Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 226.
 (pdftex.def)             Requested size: 184.3758pt x 71.93411pt.
  [14
 
  <./immagini/farmadone_curcdone.png> <./immagini/farmacurc_curcdone.png>]
-<immagini/condserie1_curcdone.png, id=130, 370.7451pt x 147.6717pt>
+<immagini/condserie1_curcdone.png, id=135, 370.7451pt x 147.6717pt>
 File: immagini/condserie1_curcdone.png Graphic file (type png)
 <use immagini/condserie1_curcdone.png>
-Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 226.
+Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 238.
 (pdftex.def)             Requested size: 184.3758pt x 73.43909pt.
-<immagini/condserie2_curcdone.png, id=131, 349.305pt x 106.7187pt>
+<immagini/condserie2_curcdone.png, id=136, 349.305pt x 106.7187pt>
 File: immagini/condserie2_curcdone.png Graphic file (type png)
 <use immagini/condserie2_curcdone.png>
-Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 226.
+Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 238.
 (pdftex.def)             Requested size: 184.3758pt x 56.33102pt.
  [15
 
- <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>] [16
+ <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>]
+<immagini/tabellacomposti_curcdone.png, id=144, 266.4354pt x 182.3613pt>
+File: immagini/tabellacomposti_curcdone.png Graphic file (type png)
+<use immagini/tabellacomposti_curcdone.png>
+Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 256.
+(pdftex.def)             Requested size: 184.3758pt x 126.19951pt.
+ [16
 
-] [17
+ <./immagini/tabellacomposti_curcdone.png>]
+<immagini/roi_curcdone.png, id=151, 262.581pt x 31.7988pt>
+File: immagini/roi_curcdone.png Graphic file (type png)
+<use immagini/roi_curcdone.png>
+Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 272.
+(pdftex.def)             Requested size: 262.58034pt x 31.7987pt.
+<immagini/selfab_curcdone.png, id=152, 262.581pt x 41.6757pt>
+File: immagini/selfab_curcdone.png Graphic file (type png)
+<use immagini/selfab_curcdone.png>
+Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 272.
+(pdftex.def)             Requested size: 262.58034pt x 41.67558pt.
+ [17
 
-] [18
+ <./immagini/roi_curcdone.png> <./immagini/selfab_curcdone.png>] [18
 
-] [19
+]
+<immagini/bpy.png, id=166, 240.097pt x 82.709pt>
+File: immagini/bpy.png Graphic file (type png)
+<use immagini/bpy.png>
+Package pdftex.def Info: immagini/bpy.png  used on input line 299.
+(pdftex.def)             Requested size: 122.91406pt x 42.3413pt.
+ [19
 
-] [20
+ <./immagini/bpy.png>] [20
 
 ] [21
 
+] [22
+
 ]
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 258.
- [22
+(Font)              scaled to size 8.0pt on input line 321.
+ [23
 
 ]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 263.
- [23
+(Font)              scaled to size 14.4pt on input line 326.
+ [24
 
 ]
 \tf@nav=\write6
@@ -1388,27 +1433,27 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
 \tf@snm=\write8
 \openout8 = `presentazione.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (./presentazione.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
 Package rerunfilecheck Info: File `presentazione.out' has not changed.
 (rerunfilecheck)             Checksum: 70876214C155BA3AEB0407F9E8E73243;182.
  ) 
 Here is how much of TeX's memory you used:
- 32457 strings out of 492641
- 644862 string characters out of 6131786
- 699636 words of memory out of 5000000
- 35753 multiletter control sequences out of 15000+600000
- 609444 words of font info for 69 fonts, out of 8000000 for 9000
+ 32546 strings out of 492641
+ 646771 string characters out of 6131786
+ 700317 words of memory out of 5000000
+ 35822 multiletter control sequences out of 15000+600000
+ 610134 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,11n,96p,1856b,697s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_junpg2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_u77sc6.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb>
-Output written on presentazione.pdf (23 pages, 2172364 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_junpg2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_u77sc6.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on presentazione.pdf (24 pages, 2350767 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 236 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
