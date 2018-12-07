@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  5 DEC 2018 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  7 DEC 2018 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1263,7 +1263,7 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
 (Font)              scaled to size 6.0pt on input line 78.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
 (Font)              scaled to size 5.0pt on input line 78.
-<immagini/APP.png, id=42, 142.6128pt x 93.7101pt>
+<immagini/APP.png, id=26, 142.6128pt x 93.7101pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
 Package pdftex.def Info: immagini/APP.png  used on input line 78.
@@ -1277,182 +1277,162 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/it' will be
  [3
 
  <./immagini/APP.png>]
-LaTeX Font Info:    Try loading font information for TS1+FiraSans-OsF on input line 93.
+LaTeX Font Info:    Try loading font information for TS1+FiraSans-OsF on input line 99.
  (/usr/share/texlive/texmf-dist/tex/latex/fira/TS1FiraSans-OsF.fd
 File: TS1FiraSans-OsF.fd 2018/05/23 (autoinst) Font definitions for TS1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 93.
+(Font)              scaled to size 9.0pt on input line 99.
  [4
 
-] [5
-
 ]
-<immagini/resveratrolo.png, id=64, 108.8868pt x 61.6704pt>
+<immagini/resveratrolo.png, id=42, 108.8868pt x 61.6704pt>
 File: immagini/resveratrolo.png Graphic file (type png)
 <use immagini/resveratrolo.png>
-Package pdftex.def Info: immagini/resveratrolo.png  used on input line 115.
+Package pdftex.def Info: immagini/resveratrolo.png  used on input line 123.
 (pdftex.def)             Requested size: 122.9164pt x 69.61801pt.
- [6
+ [5
 
  <./immagini/resveratrolo.png>]
-<immagini/totale_resveratrolo.png, id=71, 236.082pt x 101.178pt>
+<immagini/totale_resveratrolo.png, id=49, 236.082pt x 101.178pt>
 File: immagini/totale_resveratrolo.png Graphic file (type png)
 <use immagini/totale_resveratrolo.png>
-Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 128.
+Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 136.
 (pdftex.def)             Requested size: 236.0814pt x 101.17773pt.
- [7
+ [6
 
  <./immagini/totale_resveratrolo.png>]
-<immagini/heck.png, id=79, 293.6571pt x 152.4897pt>
+<immagini/heck.png, id=56, 293.6571pt x 152.4897pt>
 File: immagini/heck.png Graphic file (type png)
 <use immagini/heck.png>
-Package pdftex.def Info: immagini/heck.png  used on input line 139.
+Package pdftex.def Info: immagini/heck.png  used on input line 147.
 (pdftex.def)             Requested size: 307.28987pt x 159.56744pt.
- [8
+ [7
 
  <./immagini/heck.png>]
-<immagini/risache_resveratrolo.png, id=86, 165.4983pt x 114.6684pt>
+<immagini/risache_resveratrolo.png, id=64, 165.4983pt x 114.6684pt>
 File: immagini/risache_resveratrolo.png Graphic file (type png)
 <use immagini/risache_resveratrolo.png>
-Package pdftex.def Info: immagini/risache_resveratrolo.png  used on input line 160.
+Package pdftex.def Info: immagini/risache_resveratrolo.png  used on input line 168.
 (pdftex.def)             Requested size: 153.64493pt x 106.46378pt.
-<immagini/risbuche_resveratrolo.png, id=87, 244.0317pt x 169.1118pt>
+<immagini/risbuche_resveratrolo.png, id=65, 244.0317pt x 169.1118pt>
 File: immagini/risbuche_resveratrolo.png Graphic file (type png)
 <use immagini/risbuche_resveratrolo.png>
-Package pdftex.def Info: immagini/risbuche_resveratrolo.png  used on input line 160.
+Package pdftex.def Info: immagini/risbuche_resveratrolo.png  used on input line 168.
 (pdftex.def)             Requested size: 153.64493pt x 106.47905pt.
- [9
+ [8
 
  <./immagini/risache_resveratrolo.png> <./immagini/risbuche_resveratrolo.png>]
-<immagini/apo_resveratrolo.png, id=96, 278.9622pt x 183.5658pt>
+<immagini/apo_resveratrolo.png, id=74, 278.9622pt x 183.5658pt>
 File: immagini/apo_resveratrolo.png Graphic file (type png)
 <use immagini/apo_resveratrolo.png>
-Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 188.
+Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 196.
 (pdftex.def)             Requested size: 153.64493pt x 101.10434pt.
-<immagini/roi_resveratrolo.png, id=97, 299.4387pt x 99.2508pt>
+<immagini/roi_resveratrolo.png, id=75, 299.4387pt x 99.2508pt>
 File: immagini/roi_resveratrolo.png Graphic file (type png)
 <use immagini/roi_resveratrolo.png>
-Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 188.
+Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 196.
 (pdftex.def)             Requested size: 153.64493pt x 50.92616pt.
- [10
+ [9
 
- <./immagini/apo_resveratrolo.png> <./immagini/roi_resveratrolo.png>] [11
-
-]
-<immagini/curcumina.png, id=111, 1172.38pt x 417.56pt>
+ <./immagini/apo_resveratrolo.png> <./immagini/roi_resveratrolo.png>]
+<immagini/curcumina.png, id=83, 1172.38pt x 417.56pt>
 File: immagini/curcumina.png Graphic file (type png)
 <use immagini/curcumina.png>
-Package pdftex.def Info: immagini/curcumina.png  used on input line 211.
+Package pdftex.def Info: immagini/curcumina.png  used on input line 218.
 (pdftex.def)             Requested size: 147.50119pt x 52.53255pt.
- [12
+ [10
 
  <./immagini/curcumina.png>]
-<immagini/generale_curcdone.png, id=118, 281.6121pt x 178.5069pt>
+<immagini/generale_curcdone.png, id=90, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 218.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 225.
 (pdftex.def)             Requested size: 253.44855pt x 160.6547pt.
- [13
+ [11
 
  <./immagini/generale_curcdone.png>]
-<immagini/farmadone_curcdone.png, id=126, 325.4559pt x 113.9457pt>
+<immagini/farmadone_curcdone.png, id=97, 325.4559pt x 113.9457pt>
 File: immagini/farmadone_curcdone.png Graphic file (type png)
 <use immagini/farmadone_curcdone.png>
-Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 232.
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 239.
 (pdftex.def)             Requested size: 215.10196pt x 75.3087pt.
-<immagini/farmacurc_curcdone.png, id=127, 327.8649pt x 127.9179pt>
+<immagini/farmacurc_curcdone.png, id=98, 327.8649pt x 127.9179pt>
 File: immagini/farmacurc_curcdone.png Graphic file (type png)
 <use immagini/farmacurc_curcdone.png>
-Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 232.
+Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 239.
 (pdftex.def)             Requested size: 215.10196pt x 83.92247pt.
- [14
+ [12
 
  <./immagini/farmadone_curcdone.png> <./immagini/farmacurc_curcdone.png>]
-<immagini/condserie1_curcdone.png, id=136, 370.7451pt x 147.6717pt>
+<immagini/condserie1_curcdone.png, id=107, 370.7451pt x 147.6717pt>
 File: immagini/condserie1_curcdone.png Graphic file (type png)
 <use immagini/condserie1_curcdone.png>
-Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 246.
+Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 253.
 (pdftex.def)             Requested size: 215.10196pt x 85.67894pt.
-<immagini/condserie2_curcdone.png, id=137, 349.305pt x 106.7187pt>
+<immagini/condserie2_curcdone.png, id=108, 349.305pt x 106.7187pt>
 File: immagini/condserie2_curcdone.png Graphic file (type png)
 <use immagini/condserie2_curcdone.png>
-Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 246.
+Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 253.
 (pdftex.def)             Requested size: 215.10196pt x 65.71709pt.
- [15
+ [13
 
  <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>]
-<immagini/tabellacomposti_curcdone.png, id=145, 266.4354pt x 182.3613pt>
+<immagini/tabellacomposti_curcdone.png, id=117, 266.4354pt x 182.3613pt>
 File: immagini/tabellacomposti_curcdone.png Graphic file (type png)
 <use immagini/tabellacomposti_curcdone.png>
-Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 264.
-(pdftex.def)             Requested size: 184.3758pt x 126.19951pt.
- [16
-
- <./immagini/tabellacomposti_curcdone.png>]
-<immagini/roi_curcdone.png, id=152, 262.581pt x 31.7988pt>
+Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 275.
+(pdftex.def)             Requested size: 159.86246pt x 109.4176pt.
+<immagini/roi_curcdone.png, id=118, 262.581pt x 31.7988pt>
 File: immagini/roi_curcdone.png Graphic file (type png)
 <use immagini/roi_curcdone.png>
-Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 280.
-(pdftex.def)             Requested size: 262.58034pt x 31.7987pt.
-<immagini/selfab_curcdone.png, id=153, 262.581pt x 41.6757pt>
+Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 275.
+(pdftex.def)             Requested size: 157.5498pt x 19.0794pt.
+<immagini/selfab_curcdone.png, id=119, 262.581pt x 41.6757pt>
 File: immagini/selfab_curcdone.png Graphic file (type png)
 <use immagini/selfab_curcdone.png>
-Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 280.
-(pdftex.def)             Requested size: 262.58034pt x 41.67558pt.
- [17
+Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 275.
+(pdftex.def)             Requested size: 157.5498pt x 25.0056pt.
+ [14
 
- <./immagini/roi_curcdone.png> <./immagini/selfab_curcdone.png>] [18
-
-]
-<immagini/bpy.png, id=167, 240.097pt x 82.709pt>
+ <./immagini/tabellacomposti_curcdone.png> <./immagini/roi_curcdone.png> <./immagini/selfab_curcdone.png>]
+<immagini/bpy.png, id=128, 240.097pt x 82.709pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 307.
+Package pdftex.def Info: immagini/bpy.png  used on input line 302.
 (pdftex.def)             Requested size: 122.91406pt x 42.3413pt.
- [19
+ [15
 
  <./immagini/bpy.png>]
-<immagini/bpy_mod.png, id=175, 304.9794pt x 125.5089pt>
-File: immagini/bpy_mod.png Graphic file (type png)
-<use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 322.
-(pdftex.def)             Requested size: 245.83282pt x 101.17137pt.
- [20
-
- <./immagini/bpy_mod.PNG>]
-<immagini/stille.png, id=182, 341.77687pt x 266.49562pt>
+<immagini/stille.png, id=135, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 332.
+Package pdftex.def Info: immagini/stille.png  used on input line 311.
 (pdftex.def)             Requested size: 239.24217pt x 186.54565pt.
- [21
+ [16
 
  <./immagini/stille.png>]
-<immagini/rea_g.png, id=190, 333.8874pt x 64.3203pt>
+<immagini/rea_g.png, id=142, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 346.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 325.
 (pdftex.def)             Requested size: 307.28987pt x 59.19795pt.
- [22
+ [17
 
  <./immagini/rea_g.png>]
-<immagini/ris_bpy2.png, id=197, 175.6161pt x 114.9093pt>
+<immagini/ris_bpy2.png, id=149, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 355.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 334.
 (pdftex.def)             Requested size: 307.28987pt x 201.09076pt.
+ [18
 
-[23
-
- <./immagini/ris_bpy2.png>] [24
-
-] [25
+ <./immagini/ris_bpy2.png>] [19
 
 ]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 375.
- [26
+(Font)              scaled to size 14.4pt on input line 352.
+ [20
 
 ]
 \tf@nav=\write6
@@ -1464,27 +1444,28 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/m/n' will be
 \tf@snm=\write8
 \openout8 = `presentazione.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
- (./presentazione.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
+
+(./presentazione.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
 Package rerunfilecheck Info: File `presentazione.out' has not changed.
-(rerunfilecheck)             Checksum: 70876214C155BA3AEB0407F9E8E73243;182.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32545 strings out of 492641
- 646375 string characters out of 6131786
- 701325 words of memory out of 5000000
- 35814 multiletter control sequences out of 15000+600000
+ 32458 strings out of 492641
+ 644404 string characters out of 6131786
+ 702320 words of memory out of 5000000
+ 35744 multiletter control sequences out of 15000+600000
  609452 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,96p,1856b,794s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_junpg2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_u77sc6.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on presentazione.pdf (26 pages, 2883064 bytes).
+Output written on presentazione.pdf (20 pages, 2727920 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

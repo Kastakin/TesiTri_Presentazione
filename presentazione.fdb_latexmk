@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1544028065 "presentazione.tex" "presentazione.pdf" "presentazione" 1544028076
+["pdflatex"] 1544171584 "presentazione.tex" "presentazione.pdf" "presentazione" 1544171591
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_junpg2.enc" 1527197384 3384 41d2f0b52d5e282c9b9c081275970408 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_u77sc6.enc" 1527197384 2849 c24c4251038ab9af5987dc556a29e22e ""
@@ -228,7 +228,6 @@
   "immagini/APP.png" 1544000752 26502 8258f0c675b5344cc6f41a222fcb8799 ""
   "immagini/apo_resveratrolo.png" 1542617340 516339 4242e3985138f48daad19649347ba4c7 ""
   "immagini/bpy.png" 1543350154 4519 eb123b925bd8b82b9fa2368696b2fdcf ""
-  "immagini/bpy_mod.PNG" 1541345081 198541 a5c008555a5e3590516fcfdeae0d89c6 ""
   "immagini/condserie1_curcdone.png" 1543145406 390269 793662e0e4b20405be86d0bd656ff38f ""
   "immagini/condserie2_curcdone.png" 1543218966 170690 f405b6ed01833a959b57f95c8681cc13 ""
   "immagini/curcumina.png" 1543265376 24547 014e7550f487122555e48d957dcaa4ee ""
@@ -247,15 +246,15 @@
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
   "immagini/tabellacomposti_curcdone.png" 1543222054 114024 ebba68bf4889991bfe1564e9a0dafe37 ""
   "immagini/totale_resveratrolo.png" 1543575077 64453 74984b9f84a40e1196f747939c77e9bb ""
-  "presentazione.aux" 1544028075 5372 0c8e69c294be7425073356b28dc30afc ""
-  "presentazione.nav" 1544028075 3207 c593c7da8641e2d2abd4253bf96dcb23 ""
-  "presentazione.out" 1544028075 182 70876214c155ba3aeb0407f9e8e73243 ""
-  "presentazione.tex" 1544028065 11864 a19728fc41b9f9cc0750e0be699b6b63 ""
+  "presentazione.aux" 1544171591 3511 694454aa5c213729edda80534648cff5 ""
+  "presentazione.nav" 1544171591 2039 5a4196ea47006e239fc20568aaec1af6 ""
+  "presentazione.out" 1544171585 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "presentazione.tex" 1544171584 11373 33b8e145a277adb474317cd2139157b4 ""
   (generated)
+  "presentazione.out"
   "presentazione.pdf"
   "presentazione.nav"
-  "presentazione.snm"
-  "presentazione.out"
-  "presentazione.aux"
   "presentazione.log"
   "presentazione.toc"
+  "presentazione.aux"
+  "presentazione.snm"
